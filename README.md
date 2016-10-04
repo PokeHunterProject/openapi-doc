@@ -1,3 +1,5 @@
+## Due to IP bans to our network, this api is currently not available
+
 # OpenAPI - PokeHunter
 
 Made by developers, for fellow developers
