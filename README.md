@@ -1,4 +1,4 @@
-# Depriciated, no longer supported
+# Depreciated, no longer supported
 
 # OpenAPI - PokeHunter
 
