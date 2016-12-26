@@ -1,3 +1,5 @@
+# Depriciated, no longer supported
+
 # OpenAPI - PokeHunter
 
 This API will allow you to access data from our scans, the whole API is limited to 16 requests per minute.
